@@ -5,20 +5,6 @@ pragma solidity ^0.8.0;
 
 import"./DisasterDataExample.sol";
 
-// import "@chainlink/contracts/src/v0.8/ChainlinkClient.sol";
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/evm-contracts/src/v0.4/vendor/SafeMathChainlink.sol";
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/evm-contracts/src/v0.4/ChainlinkClient.sol";
-
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/evm-contracts/src/v0.4/vendor/Ownable.sol";
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/evm-contracts/src/v0.4/interfaces/LinkTokenInterface.sol";
-
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/evm-contracts/src/v0.4/interfaces/AggregatorInterface.sol";
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/evm-contracts/src/v0.4/interfaces/AggregatorV3Interface.sol";
-
-// import"https://mumbai.polygonscan.com/address/0xaD736Bb2D21e38e9978592904ea746Af489476e6#code#L15";
-
-
-
 
 contract cropInsurance {
 
