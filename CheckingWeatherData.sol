@@ -3,14 +3,6 @@
 pragma solidity ^0.8.0;
 
 import "@chainlink/contracts/src/v0.8/ChainlinkClient.sol";
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/vendor/SafeMathChainlink.sol";
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/ecotracts/src/v0.8/ChainlinkClient.sol";
-
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/evm-contracts/src/v0.4/vendor/Ownable.sol";
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/interfaces/LinkTokenInterface.sol";
-
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/evm-contracts/src/v0.4/interfaces/AggregatorInterface.sol";
-// import "https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol";
 
 import"./Insurance.sol";
 
